@@ -118,9 +118,9 @@ buttons[1].addEventListener("click", () => {
   icon.src = "./assets/Image/play.png";
   photo.src = "./assets/Image/gfk.jpeg";
   song.src = "./assets/Songs/gfk.mp3";
-  songName.innerText = "Ghostface Killah";
+  songName.innerText = "Ghost face Killah";
   songBy.innerText = "Sidhu Moose Wala";
-  title.innerText = " Ghostface Killah";
+  title.innerText = " Ghost face Killah";
   download.href = "./assets/Songs/gfk.mp3";
   aboutSong.innerText = "“Ghostface Killah is a posthumous Punjabi single by Sidhu Moose Wala, officially released on September 21, 2026. The track features music produced by MXRCI and lyrics written and composed by Sidhu Moose Wala himself before his passing.";
 });
